@@ -2,15 +2,13 @@
 
 ## 💻 Code Alchemist | Web Wizard | 17-Year-Old Tech Innovator
 
-![my philosophy](https://i.pinimg.com/736x/d6/0e/17/d60e17fe10b49b871c614ee4cf13e7c7.jpg)
-
 ### 🔧 Tech Arsenal
 - **Languages**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js
 - **Styling**: Tailwind CSS
 - **Toolkit**: npm, Git
 
-### 🌈 My Coding Philosophy
+### My Coding Philosophy
 ```
 while (noObstacle && passionate) {
   learn();
@@ -28,7 +26,7 @@ Transforming ideas into digital realities, one line of code at a time.
 - Innovative tech solutions
 
 ### 📡 Connect & Explore
-- [Personal Portfolio](your-portfolio-link)
+- [Personal Portfolio](https://mohamedaitsidibah.netlify.app/)
 - [Instagram](https://www.instagram.com/arthur_sensai/)
 
 ### ⚡ Fun Codec

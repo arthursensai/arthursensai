@@ -82,16 +82,16 @@ Clean, performance-focused portfolio demonstrating technical skills and creative
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurSensai&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurSensai&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🔗 Connect With Me
 
-- 🌐 **Portfolio**: [your-domain.com]([https://your-domain.com](https://mohamedaitsidibah.netlify.app))
-- 📸 **Instagram**: [@yourhandle](https://www.instagram.com/sensai_arthur/)
-- 💼 **LinkedIn**: [Your Name](https://www.linkedin.com/in/mohamed-ait-sidi-bah)
+- 🌐 **Portfolio**: [mohamed-aytsidibah]([https://your-domain.com](https://mohamedaitsidibah.netlify.app))
+- 📸 **Instagram**: [@sensai-arthur](https://www.instagram.com/sensai_arthur/)
+- 💼 **LinkedIn**: [Mohamed Ait Sidi Bah](https://www.linkedin.com/in/mohamed-ait-sidi-bah)
 - 🎬 **YouTube**: *Channel launching soon...*
 
 ---

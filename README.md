@@ -50,5 +50,5 @@ Personal portfolio built to showcase projects and technical skills.
 
 ## Contact
 - Portfolio: [mohamedaitsidibah.netlify.app](https://mohamedaitsidibah.me)
-- LinkedIn: [mohamed-ait-sidi-bah](https://www.linkedin.com/in/mohamed-ait-sidi-bah)
+- LinkedIn: [mohamed-ait-sidi-bah](https://www.linkedin.com/in/mohammed-ait-sidi-bah)
 - Email: mohammedaitsidibah@gmail.com

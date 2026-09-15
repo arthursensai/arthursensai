@@ -30,7 +30,7 @@ Self-taught full-stack developer building production-grade web applications with
 
 ### Waraq — Document Tracking & Reading Library
 Full-stack web application for managing and tracking documents, built with Next.js, TypeScript, Supabase, and PostgreSQL. Includes role-based access control, PDF handling, and multi-author document linking.
-[waraq1.vercel.app](https://waraq1.vercel.app)
+[waraq1.vercel.app](https://waraq.tech)
 
 ### ClipNote
 AI-powered web app that summarizes long texts, articles, and study notes into concise summaries.
